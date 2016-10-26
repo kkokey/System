@@ -1,0 +1,42 @@
+[
+	'type':'mysql',
+	'name':'mysql',
+	'charset':'utf8',
+	'table':
+	[
+		{
+			'name':'user',
+			'comment':'',
+			'charset':'utf8',
+			'collation':'utf8_general_ci',
+			'engine':'MyISAM',
+			'column':
+			[
+				{
+					'name':'',
+					'type':'',
+					'autoinc':'',
+					'default':'',
+					'charset':'',
+					'comment':''
+				},
+				{
+					'name':'',
+					'type':'',
+					'autoinc':'',
+					'default':'',
+					'charset':'',
+					'comment':''
+				}
+			]
+		},
+		{
+			'name':'',
+			'comment':'',
+			'charset':'utf8',
+			'collation':'utf8_general_ci',
+			'engine':'MyISAM'
+		}
+
+	]
+]
